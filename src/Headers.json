@@ -1,0 +1,80 @@
+{
+    "bottom": [
+        {
+            "title": "Elektronik"
+        },
+        {
+            "title": "Moda"
+        }, {
+            "title": "Ev, Yaşam, Kırtasiye, Ofis"
+        },
+        {
+            "title": "Oto, Bahçe, Yapı Market"
+        },
+        {
+            "title": "Anne, Bebek, Oyuncak"
+        },
+        {
+            "title": "Spor, Outdoor"
+        }, {
+            "title": "Kozmetik, Kişisel Bakım"
+        },
+        {
+            "title": "Süpermarket, Pet Shop"
+        },
+        {
+            "title": "Kitap, Müzik, Film, Hobi"
+        }
+    ],
+    "top": [
+        {
+            "title": "Siparişlerim"
+        },
+        {
+            "title": "Süper Fiyat, Süper Teklif"
+        },
+        {
+            "title": "Yurt Dışından"
+        },
+        {
+            "title": "Kampanyalar"
+        },
+        {
+            "title": "Girişimci Kadınlar",
+            "color": ""
+        },
+        {
+            "title": "Müşteri Hizmetleri"
+        },
+        {
+            "title": "Hepsiburada Premium",
+            "color": ""
+        },
+        {
+            "title":"Hepsiburada'da Satıcı Ol"
+        }
+    ],
+    "bodyTop": [
+        {
+            "title": "Gamer Fırsatları"
+        },
+        {
+            "title": "Kampanyalar"
+        },
+        {
+            "title": "Kaçınılmayacak Fiyatlar"
+        },
+        {
+            "title": "Teknolojik Fırsatlar"
+        },
+        {
+            "title": "Okul Alışverişi"
+        },
+        {
+            "title": "Sana Özel Fırsatlar"
+        },
+        {
+            "title": "Ayrıcalıklar"
+        }
+    ]
+}
